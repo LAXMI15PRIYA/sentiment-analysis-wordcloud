@@ -58,12 +58,10 @@ A collection of customer review sentences covering product quality and service e
 ## Sample Output
 
 **Sentiment Distribution**
-![Sentiment Pie Chart](images/pie_chart.png)
+![Sentiment Pie Chart](piechart.png)
 
 **Word Cloud — Negative Reviews**
-![Negative Word Cloud](images/wordcloud.png)
-
-*(Upload these images to an `images/` folder in the repo and update the paths above)*
+![Negative Word Cloud](wordcloud.png)
 
 ## How to Run
 ```bash
@@ -82,3 +80,5 @@ jupyter notebook Sentiment_Analysis_&_Word_Cloud_Project.ipynb
 ```
 
 ## Project Structure
+
+
